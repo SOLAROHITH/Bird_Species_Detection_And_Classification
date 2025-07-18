@@ -1,0 +1,13 @@
+*.h5
+*.csv
+*.log
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.keras
+*.pt
+__pycache__/
+.ipynb_checkpoints/
+EffiecientB7/SDP_Project/
